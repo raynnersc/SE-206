@@ -1,0 +1,4 @@
+fun main
+begin
+  return 2 + 5;
+end

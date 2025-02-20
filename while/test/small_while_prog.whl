@@ -1,0 +1,10 @@
+int number = 5;
+
+fun main
+begin
+    int i = 0;
+    while(i < number) do
+        printint(i);
+        i = i + 1;
+    end;
+end

@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "unity.h": "c",
+        "lightscheduler.h": "c",
+        "timeservice.h": "c",
+        "string.h": "c",
+        "functional": "c",
+        "lightcontrol.h": "c"
+    }
+}

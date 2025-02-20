@@ -1,0 +1,13 @@
+fun main
+begin
+  int var = 1;
+  int x;
+
+  if var == 1 then
+    x = 10;
+  else
+    x = 20;
+  end;
+  
+  return x;
+end
